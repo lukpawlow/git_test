@@ -22,7 +22,7 @@ class SARDog(Dog):
         print(f"{self.name} is searching.")
 
 
-my_dog = Dog('Willie')
+# my_dog = Dog('Willie')
 print(f"{my_dog.name} is a search dog.")
 my_dog.sit()
 my_dog.search()
